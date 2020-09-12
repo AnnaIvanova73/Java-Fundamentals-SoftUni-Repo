@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="MoreExercise_3_CarSalesman1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ObjectsAndClassesExercise/out/production/ObjectsAndClasses_Lab_Exercise_MoreExercise/MoreExercise_3_CarSalesman/Engine (2).zip!/" />
+      <root url="jar://$PROJECT_DIR$/ObjectsAndClassesExercise/out/production/ObjectsAndClasses_Lab_Exercise_MoreExercise/MoreExercise_3_CarSalesman/Car.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ObjectsAndClassesExercise/out/production/ObjectsAndClasses_Lab_Exercise_MoreExercise/MoreExercise_3_CarSalesman/CarSalesman.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ObjectsAndClassesExercise/out/production/ObjectsAndClasses_Lab_Exercise_MoreExercise/MoreExercise_3_CarSalesman/Engine.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Person1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ObjectsAndClassesExercise/out/production/ObjectsAndClassesExercise/OrderedByAge/Person.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

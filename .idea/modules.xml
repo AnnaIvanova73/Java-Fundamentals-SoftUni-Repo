@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1basicSyntaxConditionalStatementsAndLoops/1basicSyntaxConditionalStatementsAndLoops.iml" filepath="$PROJECT_DIR$/1basicSyntaxConditionalStatementsAndLoops/1basicSyntaxConditionalStatementsAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysListExercise/ArraysListExercise.iml" filepath="$PROJECT_DIR$/ArraysListExercise/ArraysListExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysListLab/ArraysListLab.iml" filepath="$PROJECT_DIR$/ArraysListLab/ArraysListLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysMoreExercise/ArraysMoreExercise.iml" filepath="$PROJECT_DIR$/ArraysMoreExercise/ArraysMoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysOneDimensional/ArraysOneDimensional.iml" filepath="$PROJECT_DIR$/ArraysOneDimensional/ArraysOneDimensional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AssociativeArrays/AssociativeArrays.iml" filepath="$PROJECT_DIR$/AssociativeArrays/AssociativeArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicSyntax/BasicSyntax.iml" filepath="$PROJECT_DIR$/BasicSyntax/BasicSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseArraysSecond/ExerciseArraysSecond.iml" filepath="$PROJECT_DIR$/ExerciseArraysSecond/ExerciseArraysSecond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseSyntaxConditionalStatement/ExerciseSyntaxConditionalStatement.iml" filepath="$PROJECT_DIR$/ExerciseSyntaxConditionalStatement/ExerciseSyntaxConditionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImportantCode/ImportantCode.iml" filepath="$PROJECT_DIR$/ImportantCode/ImportantCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListsMoreExercise/ListsMoreExercise.iml" filepath="$PROJECT_DIR$/ListsMoreExercise/ListsMoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsExercise/MethodsExercise.iml" filepath="$PROJECT_DIR$/MethodsExercise/MethodsExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsLab/MethodsLab.iml" filepath="$PROJECT_DIR$/MethodsLab/MethodsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidExam/MidExam.iml" filepath="$PROJECT_DIR$/MidExam/MidExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoreDataTypesAndVariables/MoreDataTypesAndVariables.iml" filepath="$PROJECT_DIR$/MoreDataTypesAndVariables/MoreDataTypesAndVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectsAndClassesExercise/ObjectsAndClassesExercise.iml" filepath="$PROJECT_DIR$/ObjectsAndClassesExercise/ObjectsAndClassesExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" filepath="$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextProcessing/TextProcessing.iml" filepath="$PROJECT_DIR$/TextProcessing/TextProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1basicSyntaxConditionalStatementsAndLoops/aaa.iml" filepath="$PROJECT_DIR$/1basicSyntaxConditionalStatementsAndLoops/aaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataTypesAndVariablesLab/aaaa.iml" filepath="$PROJECT_DIR$/dataTypesAndVariablesLab/aaaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysLab/arraysLab.iml" filepath="$PROJECT_DIR$/arraysLab/arraysLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataTypesAndVariablesLab/dataTypesAndVariablesLab.iml" filepath="$PROJECT_DIR$/dataTypesAndVariablesLab/dataTypesAndVariablesLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataTypesAndVariablesLab/dataTypesAndVariablesLab1.iml" filepath="$PROJECT_DIR$/dataTypesAndVariablesLab/dataTypesAndVariablesLab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moreExerciseBasicSyntax/moreExerciseBasicSyntax.iml" filepath="$PROJECT_DIR$/moreExerciseBasicSyntax/moreExerciseBasicSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usefull/usefull.iml" filepath="$PROJECT_DIR$/usefull/usefull.iml" />
+    </modules>
+  </component>
+</project>

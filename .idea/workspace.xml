@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c4e09be-3a1f-4ebc-9791-2514c9754172" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ListsMoreExercise" />
+  </component>
+  <component name="ProjectId" id="1ZHAoP2mq6vUKnkISQmap4U7aUO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last.edited.regexp" value="Anna Ivanova" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FundamentalsProjects\dataTypesAndVariablesLab" />
+      <recent name="D:\FundamentalsProjects\BasicSyntax\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FundamentalsProjects\dataTypesAndVariablesLab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MoreExercise_3_MOBAChallenger">
+    <configuration name="MoreExercise_1_WinningTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreExercise_1_WinningTicket" />
+      <module name="RegularExpressions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreExercise_3_MOBAChallenger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreExercise_3_MOBAChallenger" />
+      <module name="AssociativeArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreExercise_6_WinningTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreExercise_6_WinningTicket" />
+      <module name="TextProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowWhite_Rumen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnowWhite_Rumen" />
+      <module name="AssociativeArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backIn30Minutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backIn30Minutes" />
+      <module name="1basicSyntaxConditionalStatementsAndLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MoreExercise_3_MOBAChallenger" />
+        <item itemvalue="Application.backIn30Minutes" />
+        <item itemvalue="Application.SnowWhite_Rumen" />
+        <item itemvalue="Application.MoreExercise_6_WinningTicket" />
+        <item itemvalue="Application.MoreExercise_1_WinningTicket" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4e09be-3a1f-4ebc-9791-2514c9754172" name="Default Changelist" comment="" />
+      <created>1584485820181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584485820181</updated>
+      <workItem from="1584485824580" duration="1200000" />
+      <workItem from="1584538162200" duration="28226000" />
+      <workItem from="1584625496338" duration="15407000" />
+      <workItem from="1584713726569" duration="605000" />
+      <workItem from="1584799925118" duration="3927000" />
+      <workItem from="1584879691439" duration="31606000" />
+      <workItem from="1585014607241" duration="4743000" />
+      <workItem from="1585020604657" duration="26690000" />
+      <workItem from="1585172671869" duration="3958000" />
+      <workItem from="1585178920227" duration="536000" />
+      <workItem from="1585179483504" duration="14406000" />
+      <workItem from="1585325921752" duration="7773000" />
+      <workItem from="1585486995703" duration="15100000" />
+      <workItem from="1585508591411" duration="20730000" />
+      <workItem from="1585602851915" duration="10390000" />
+      <workItem from="1585771593181" duration="10783000" />
+      <workItem from="1585930143333" duration="1225000" />
+      <workItem from="1585995686635" duration="3006000" />
+      <workItem from="1586309202890" duration="1031000" />
+      <workItem from="1586442089763" duration="5463000" />
+      <workItem from="1586545914099" duration="2000000" />
+      <workItem from="1586720883743" duration="611000" />
+      <workItem from="1587142139553" duration="962000" />
+      <workItem from="1587237121543" duration="2811000" />
+      <workItem from="1587324273333" duration="391000" />
+      <workItem from="1587324692521" duration="118000" />
+      <workItem from="1587324830808" duration="261000" />
+      <workItem from="1587325706616" duration="497000" />
+      <workItem from="1587326213837" duration="399000" />
+      <workItem from="1587326776732" duration="72000" />
+      <workItem from="1587327024400" duration="187000" />
+      <workItem from="1591699539544" duration="3731000" />
+      <workItem from="1591805157134" duration="3704000" />
+      <workItem from="1593979864750" duration="5000" />
+      <workItem from="1599936896724" duration="1259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Auto_Import" timestamp="1584889085163">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Auto_Import/0.0.1600.860@0.0.1600.860" timestamp="1584889085163" />
+    <state x="392" y="88" key="#Inspections" timestamp="1585074237215">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1585074237215" />
+    <state x="31" y="47" key="#Live_Templates" timestamp="1584548447445">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="31" y="47" key="#Live_Templates/0.0.1600.860@0.0.1600.860" timestamp="1584548447445" />
+    <state x="392" y="88" key="#Project_Structure" timestamp="1587325766481">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1587325766481" />
+    <state x="558" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587326502205">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="558" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1587326502205" />
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1585532411346">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1585532411346" />
+    <state x="615" y="120" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1584570221497">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="615" y="120" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1600.860@0.0.1600.860" timestamp="1584570221497" />
+    <state x="466" y="288" width="667" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585496223500">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="466" y="288" width="667" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1585496223500" />
+    <state x="530" y="176" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585175233937">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1600.860@0.0.1600.860" timestamp="1585175233937" />
+    <state width="419" height="445" key="DebuggerActiveHint" timestamp="1585518343566">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="419" height="445" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1585518343566" />
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1585520799258">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1585520799258" />
+    <state x="580" y="131" key="FileChooserDialogImpl" timestamp="1587327169225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="131" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1587327169225" />
+    <state width="1556" height="276" key="GridCell.Tab.-1.bottom" timestamp="1584488593179">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="276" key="GridCell.Tab.-1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584488593179" />
+    <state width="1556" height="276" key="GridCell.Tab.-1.center" timestamp="1584488593179">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="276" key="GridCell.Tab.-1.center/0.0.1600.860@0.0.1600.860" timestamp="1584488593179" />
+    <state width="1556" height="276" key="GridCell.Tab.-1.left" timestamp="1584488593179">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="276" key="GridCell.Tab.-1.left/0.0.1600.860@0.0.1600.860" timestamp="1584488593179" />
+    <state width="1556" height="276" key="GridCell.Tab.-1.right" timestamp="1584488593179">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="276" key="GridCell.Tab.-1.right/0.0.1600.860@0.0.1600.860" timestamp="1584488593179" />
+    <state width="1556" height="230" key="GridCell.Tab.0.bottom" timestamp="1585876210584">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585876210584" />
+    <state width="1556" height="230" key="GridCell.Tab.0.center" timestamp="1585876210584">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585876210584" />
+    <state width="1556" height="230" key="GridCell.Tab.0.left" timestamp="1585876210584">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585876210584" />
+    <state width="1556" height="230" key="GridCell.Tab.0.right" timestamp="1585876210584">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585876210584" />
+    <state x="465" y="128" width="671" height="603" key="NewModule_or_Project.wizard" timestamp="1587327175961">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="465" y="128" width="671" height="603" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1587327175961" />
+    <state x="615" y="363" key="ReplaceDuplicatesPrompt" timestamp="1585522308048">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="615" y="363" key="ReplaceDuplicatesPrompt/0.0.1600.860@0.0.1600.860" timestamp="1585522308048" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1585179456412">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1585179456412" />
+    <state x="616" y="207" key="chooseDestDirectoryDialog" timestamp="1585521123741">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="616" y="207" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1585521123741" />
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1587324833477">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587324833477" />
+    <state x="530" y="184" width="540" height="498" key="extract.method.dialog" timestamp="1585522305586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="184" width="540" height="498" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1585522305586" />
+    <state x="182" y="50" key="new project wizard" timestamp="1587327085823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1587327085823" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MidExam/src/Exam_1_NationalCourt.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/src/Exercise_2_CharacterMultiplier.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/src/Exercise_6_ReplaceRepeatingChars.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/src/Exercise_6_ReplaceRepeatingChars_Luybo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/src/Exercise_7_StringExplosion.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/Exercise_5_NetherRealms.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/MoreExercise_2_RageQuit.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArrays/src/MoreExercise_2_Judge.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/MoreExercise_3_PostOffice.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/MoreExercise_Task_3_PostOffice_Rumen.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/MoreExercise_Task_3_PostOffice_Rumen.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/MoreExercise_Task_3_PostOffice_Rumen.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/MoreExercise_Task_3_PostOffice_Rumen.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/MoreExercise_Task_4_SantasSecretHelper.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/src/MoreExercise_4_MorseCodeTranslator.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/src/MoreExercise_6_WinningTicket.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FundamentalsProjects$MoreExercise_4_Snowwhite.ic" NAME="MoreExercise_4_Snowwhite Coverage Results" MODIFIED="1584910254011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+  </component>
+</project>
