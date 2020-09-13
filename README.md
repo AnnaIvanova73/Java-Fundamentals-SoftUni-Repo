@@ -4,7 +4,7 @@
 3. Arrays
 4. Methods
 5. Lists
-6. bjects And Classes
+6. Objects And Classes
 7. Associative Arrays
 8. Text Processing
 9. Regular Expressions
