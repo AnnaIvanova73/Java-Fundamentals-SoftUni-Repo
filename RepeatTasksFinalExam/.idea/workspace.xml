@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83c37936-2d4e-408e-898f-6a432853d173" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlmYYlXxxSeF6rnvuGMhqOyZtl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.A1_Task_2_Group_1">
+    <configuration name="A1_Exam_Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A1_Exam_Task_1" />
+      <module name="RepeatTasksFinalExam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A1_Exam_Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A1_Exam_Task_2" />
+      <module name="RepeatTasksFinalExam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A1_Exam_Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A1_Exam_Task_3" />
+      <module name="RepeatTasksFinalExam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A1_Task_2_Group_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A1_Task_2_Group_1" />
+      <module name="RepeatTasksFinalExam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anna" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anna" />
+      <module name="RepeatTasksFinalExam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.A1_Exam_Task_1" />
+      <item itemvalue="Application.A1_Exam_Task_2" />
+      <item itemvalue="Application.A1_Exam_Task_3" />
+      <item itemvalue="Application.anna" />
+      <item itemvalue="Application.A1_Task_2_Group_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A1_Task_2_Group_1" />
+        <item itemvalue="Application.anna" />
+        <item itemvalue="Application.A1_Exam_Task_3" />
+        <item itemvalue="Application.A1_Exam_Task_2" />
+        <item itemvalue="Application.A1_Exam_Task_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c37936-2d4e-408e-898f-6a432853d173" name="Default Changelist" comment="" />
+      <created>1585422102660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585422102660</updated>
+      <workItem from="1585422106891" duration="16548000" />
+      <workItem from="1585592952018" duration="39899000" />
+      <workItem from="1585843028254" duration="14794000" />
+      <workItem from="1585929133404" duration="21933000" />
+      <workItem from="1585960295370" duration="1373000" />
+      <workItem from="1585995653712" duration="8951000" />
+      <workItem from="1586006920863" duration="1338000" />
+      <workItem from="1586083891337" duration="3685000" />
+      <workItem from="1586103065618" duration="960000" />
+      <workItem from="1586129403920" duration="371000" />
+      <workItem from="1586309068852" duration="127000" />
+      <workItem from="1587162375623" duration="732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1400" height="660" key="DiffContextDialog" timestamp="1585999055607">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="100" y="100" width="1400" height="660" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1585999055607" />
+    <state width="1557" height="223" key="GridCell.Tab.0.bottom" timestamp="1586087596038">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="223" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586087596038" />
+    <state width="1557" height="223" key="GridCell.Tab.0.center" timestamp="1586087596038">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="223" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586087596038" />
+    <state width="1557" height="223" key="GridCell.Tab.0.left" timestamp="1586087596038">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="223" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586087596038" />
+    <state width="1557" height="223" key="GridCell.Tab.0.right" timestamp="1586087596038">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="223" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586087596038" />
+    <state x="615" y="363" key="ReplaceDuplicatesPrompt" timestamp="1585440766976">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="615" y="363" key="ReplaceDuplicatesPrompt/0.0.1600.860@0.0.1600.860" timestamp="1585440766976" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1586309073028">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586309073028" />
+    <state x="530" y="184" width="540" height="498" key="extract.method.dialog" timestamp="1586006053604">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="184" width="540" height="498" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1586006053604" />
+    <state x="182" y="50" key="new project wizard" timestamp="1586309190623">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1586309190623" />
+    <state x="506" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1585428304517">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="48" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1585428304517" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/December_13_Task_1_WarriorsQuest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/December_7_Group_2_Task_1_NikuldensCharity.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/December_7_Group_2_Task_2_MessageTranslator.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/December_7_Group_2_Task_3_Nikuldensmeals.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/August_9_Task_1_Username.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/August_9_Task_1_Username.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/August_3_Group_1_Task_1_StringManipulator.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/July_24_Task_1_TheIsleOfManTTRace.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/April_14_Tech_Task_2_PracticeSessions.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A1_Exam_Task_2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RepeatTasksFinalExam$A1_Exam_Task_2.ic" NAME="A1_Exam_Task_2 Coverage Results" MODIFIED="1586000279399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
